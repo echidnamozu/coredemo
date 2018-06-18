@@ -1,0 +1,2 @@
+# coredemo
+Demo core theme
